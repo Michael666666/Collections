@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.csproj.CoreCompileInputs.cache
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\Collections\bin\Debug\netcoreapp2.1\collections.deps.json
+C:\Users\huangjinlong\Desktop\Collections\bin\Debug\netcoreapp2.1\collections.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\Collections\bin\Debug\netcoreapp2.1\collections.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\Collections\bin\Debug\netcoreapp2.1\collections.dll
+C:\Users\huangjinlong\Desktop\Collections\bin\Debug\netcoreapp2.1\collections.pdb
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.dll
+C:\Users\huangjinlong\Desktop\Collections\obj\Debug\netcoreapp2.1\collections.pdb
